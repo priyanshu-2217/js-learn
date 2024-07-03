@@ -13,6 +13,7 @@ let name = "hitesh"
 let age = 19
 let isLoggedIn = false
 let state;
+const hello ="ram ram ";
 
 // number => 2 to power 53
 // bigint
