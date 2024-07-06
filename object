@@ -2,3 +2,7 @@ const  ob = object(){
    name:"Priyanshu"
    roll no. : 22ESKCX091
 }
+const v = ((name) => {
+   console.log(`connected with ${name}`);
+})(`Priyanshu`);
+
